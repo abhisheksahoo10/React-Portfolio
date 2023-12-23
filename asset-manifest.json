@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/relativepath/static/css/main.851d8417.css",
+    "main.js": "/relativepath/static/js/main.5749a379.js",
+    "static/js/787.0f8d78ff.chunk.js": "/relativepath/static/js/787.0f8d78ff.chunk.js",
+    "static/media/profilenobg.png": "/relativepath/static/media/profilenobg.ac13ed7ca612244358b6.png",
+    "static/media/Frame2.png": "/relativepath/static/media/Frame2.109d88072c65430eb4ed.png",
+    "static/media/Frame3.png": "/relativepath/static/media/Frame3.833e2c3332c2482d790e.png",
+    "static/media/Frame1.png": "/relativepath/static/media/Frame1.a0916132bc354185f644.png",
+    "static/media/pic.jpeg": "/relativepath/static/media/pic.81edb460d59343e7e6d0.jpeg",
+    "static/media/x.png": "/relativepath/static/media/x.e2458a5f063f7e87321d.png",
+    "static/media/linkedin.png": "/relativepath/static/media/linkedin.032cf8a63be2f0f4d425.png",
+    "static/media/whatsapp.svg": "/relativepath/static/media/whatsapp.c18295c10a42d47ca47cc38edf2e1bef.svg",
+    "static/media/instagram.svg": "/relativepath/static/media/instagram.cb2c65c17411d202470e311582dbe2de.svg",
+    "index.html": "/relativepath/index.html",
+    "static/media/gmail.svg": "/relativepath/static/media/gmail.84708bb6d2a0870cf3715c3bbd4aff38.svg",
+    "static/media/in.svg": "/relativepath/static/media/in.ecadf8ce2ab9f31dd0278e1b5c8cc7ca.svg",
+    "main.851d8417.css.map": "/relativepath/static/css/main.851d8417.css.map",
+    "main.5749a379.js.map": "/relativepath/static/js/main.5749a379.js.map",
+    "787.0f8d78ff.chunk.js.map": "/relativepath/static/js/787.0f8d78ff.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.851d8417.css",
+    "static/js/main.5749a379.js"
+  ]
+}
